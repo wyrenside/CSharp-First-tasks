@@ -12,3 +12,4 @@ C:\Users\nurlan\Desktop\CSharp\Tasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
 C:\Users\nurlan\Desktop\CSharp\Tasks\Tasks\obj\Debug\net8.0\Tasks.pdb
 C:\Users\nurlan\Desktop\CSharp\Tasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
 C:\Users\nurlan\Desktop\CSharp\Tasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll
+C:\Users\nurlan\Desktop\CSharp\Tasks\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
